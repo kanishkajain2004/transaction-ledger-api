@@ -5,6 +5,8 @@ transfers.
 
 - **Base URL:** `http://localhost:8000` when run as described in the [README](README.md)
 - **Interactive docs (Swagger UI):** `http://localhost:8000/docs`
+- **Design assumptions** (duplicates, pagination limits, money precision, transfers):
+  see [README → Assumptions](README.md#assumptions)
 - **OpenAPI spec:** `http://localhost:8000/openapi.json`
 
 ## Contents
